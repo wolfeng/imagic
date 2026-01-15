@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  ImagicNative
+
+  Created by 王峰 on 2026/1/14.
+  
+*/
+"NSMicrophoneUsageDescription" = "Benötige Mikrofonzugriff, um Pustemagie zu erkennen.";
+"NSPhotoLibraryUsageDescription" = "Benötige Fotozugriff, um magische Medien auszuwählen.";
+"CFBundleDisplayName" = "iMagic";
+"CFBundleName" = "iMagic";

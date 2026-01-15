@@ -98,7 +98,7 @@ class _StageEditorScreenState extends State<StageEditorScreen> {
           ),
           const SizedBox(height: 10),
           DropdownButtonFormField<StageType>(
-            initialValue: _type,
+            value: _type,
             decoration: const InputDecoration(labelText: "媒体类型 (Type)"),
             items: const [
               DropdownMenuItem(
@@ -132,7 +132,7 @@ class _StageEditorScreenState extends State<StageEditorScreen> {
           ),
           const SizedBox(height: 10),
           DropdownButtonFormField<PlaybackMode>(
-            initialValue: _mode,
+            value: _mode,
             decoration: const InputDecoration(labelText: "播放模式 (Mode)"),
             items: const [
               DropdownMenuItem(
@@ -145,7 +145,7 @@ class _StageEditorScreenState extends State<StageEditorScreen> {
           const Text("跳转条件 (Jump Condition)",
               style: TextStyle(fontWeight: FontWeight.bold)),
           DropdownButtonFormField<TriggerType>(
-            initialValue: _triggerType,
+            value: _triggerType,
             decoration: const InputDecoration(labelText: "触发类型 (Condition)"),
             items: const [
               DropdownMenuItem(

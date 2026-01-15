@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  ImagicNative
+
+  Created by 王峰 on 2026/1/14.
+  
+*/
+"NSMicrophoneUsageDescription" = "吹きかけマジックを検出するためにマイクが必要です。";
+"NSPhotoLibraryUsageDescription" = "マジックの素材を選択するために写真へのアクセスが必要です。";
+"CFBundleDisplayName" = "iMagic";
+"CFBundleName" = "iMagic";

@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  ImagicNative
+
+  Created by 王峰 on 2026/1/14.
+  
+*/
+"NSMicrophoneUsageDescription" = "需要麦克风来检测吹气魔术。";
+"NSPhotoLibraryUsageDescription" = "需要访问相册来选择魔术素材。";
+"CFBundleDisplayName" = "iMagic";
+"CFBundleName" = "iMagic";

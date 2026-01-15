@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  ImagicNative
+
+  Created by 王峰 on 2026/1/14.
+  
+*/
+"NSMicrophoneUsageDescription" = "Necesita acceso al micrófono para detectar magia de soplido.";
+"NSPhotoLibraryUsageDescription" = "Necesita acceso a fotos para seleccionar medios mágicos.";
+"CFBundleDisplayName" = "iMagic";
+"CFBundleName" = "iMagic";

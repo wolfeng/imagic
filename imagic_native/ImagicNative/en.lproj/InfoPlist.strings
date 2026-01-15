@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  ImagicNative
+
+  Created by 王峰 on 2026/1/14.
+  
+*/
+"NSMicrophoneUsageDescription" = "Need microphone access to detect blowing magic.";
+"NSPhotoLibraryUsageDescription" = "Need photo library access to select magic media.";
+"CFBundleDisplayName" = "iMagic";
+"CFBundleName" = "iMagic";
